@@ -49,7 +49,7 @@ laptop-price-predictor/
 git clone https://github.com/your-username/laptop-price-predictor.git
 cd laptop-price-predictor
 ```
-
+```
 🧠 Model Details
 The model uses a log-transformed price regression and considers:
 
@@ -66,8 +66,10 @@ PPI (calculated from screen size and resolution)
 Storage (HDD & SSD)
 
 GPU and Operating System
+```
 🔗 [https://laptop-price-prediction-ksregbmsojapp3bpfeuygp7.streamlit.app/]
 
 🙌 Contributing
+```
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
