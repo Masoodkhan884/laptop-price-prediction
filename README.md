@@ -19,14 +19,6 @@ A machine learning-powered Streamlit web app that predicts laptop prices based o
 
 ---
 
-## 🖼️ Demo
-
-![App Screenshot](https://your-screenshot-url.com/optional.png)
-
-> You can deploy this app for free using [Streamlit Cloud](https://streamlit.io/cloud) or run it locally.
-
----
-
 ## 🧰 Tech Stack
 
 - **Python**
@@ -56,6 +48,7 @@ laptop-price-predictor/
 ```bash
 git clone https://github.com/your-username/laptop-price-predictor.git
 cd laptop-price-predictor
+```
 
 🧠 Model Details
 The model uses a log-transformed price regression and considers:
@@ -73,8 +66,7 @@ PPI (calculated from screen size and resolution)
 Storage (HDD & SSD)
 
 GPU and Operating System
-🌐 Live App (Optional)
-🔗 View Live on Streamlit Cloud
+🔗 [https://laptop-price-prediction-ksregbmsojapp3bpfeuygp7.streamlit.app/]
 
 🙌 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
